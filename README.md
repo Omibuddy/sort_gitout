@@ -2,11 +2,11 @@
 finanz-informatik - AI hackathon 2025
 ## Pre-filter dataset and Modes for LLM 
 # why?
-Summarizes commits
-reads the code differences
-Stored for fast access
-AI chatbot answering your questions
-Understands the “why” of changes
+/ Summarizes commits.
+/ reads the code differences.
+/ Stored for fast access.
+/ AI chatbot answering your questions.
+/ Understands the “why” of changes.
 
 # Overall
 Data Ingestion: Clone or pull the GitHub repository, extract raw code and resource files, and batch them into manageable chunks.
