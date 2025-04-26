@@ -1,4 +1,4 @@
-# sort_itout
+# sort_gitout
 finanz-informatik - AI hackathon 2025
 ## Pre-filter dataset and Modes for LLM 
 # why?
